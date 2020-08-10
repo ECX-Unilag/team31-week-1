@@ -1,5 +1,4 @@
 # team31-week-1
-So, just to reiterate what @Saratu Muazu Bello [BE] had explained:
 The edutech is like an online School platform.
 We are building a system, it's not going to be easy, but we have to make it easy,
 The system will permit at most four users; Admin, Student, Teachers, and Guardian/Parent. An outsider will have to sign up irrespective but can read and check the home page and about us sections.
