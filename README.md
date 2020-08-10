@@ -15,3 +15,5 @@ Also, there has to be a categorized format for courses, in sections.Data analysi
 5. @Joshua Oluwashanu
 6. @Ufedojo-Atabo [MO]
 ![image](https://res.cloudinary.com/sarahembee/image/upload/v1597073265/E-Learning_Site_-_ECX_nhnvji.png)
+
+# Figma link:(https://www.figma.com/file/hX0sEFfDc2RBvwSG1IrPYY/EDTECH?node-id=0%3A1)
