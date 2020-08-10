@@ -6,4 +6,12 @@ The admin is just an overseer, preferably the management.
 The teachers, students, and guardians, will need to sign up on the webpage before they have access to a profile/dashboard
 On the homepage, there has to be a sort of greeting, based on time, like Hello good morning {Name} then maybe a random quote.
 Also, there has to be a categorized format for courses, in sections.Data analysis: introduction to Data, complete intermediate package...view allContent Writing: introduction to content writing, complete intermediate package...view allProduct Management: introduction to Product Management, complete intermediate package...view allDesign: introduction to Design, complete intermediate package...view all
+
+# Team Members
+1. @Saratu Muazu Bello [BE]
+2. @Jonathan Macaulay [ML]
+3. @Arby[UI]
+4. @Teeteelawlah {FE}
+5. @Joshua Oluwashanu
+6. @Ufedojo-Atabo [MO]
 ![image](https://res.cloudinary.com/sarahembee/image/upload/v1597073265/E-Learning_Site_-_ECX_nhnvji.png)
